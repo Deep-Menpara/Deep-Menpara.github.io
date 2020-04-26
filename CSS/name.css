@@ -14,19 +14,34 @@
     animation: moving-panel 3s infinite alternate;
 }
 .colortext .anim-shape:nth-child(1) {
-    fill: #1300e3;
+    fill: #FF7F00;
 }
 .colortext .anim-shape:nth-child(2) {
-    fill: #3321ff;
+    fill: #fff;
 }
 .colortext .anim-shape:nth-child(3) {
-    fill: #594aff;
+    fill: #0000FF;
 }
 .colortext .anim-shape:nth-child(4) {
-    fill: #7366ff;
+    fill: #00FF00;
 }
 .colortext .anim-shape:nth-child(5) {
-    fill: #867aff;
+    fill: #bfbf00;
+}
+.colortext .anim-shape:nth-child(6) {
+    fill: #FF7F00;
+}
+.colortext .anim-shape:nth-child(7) {
+    fill: #FF0000;
+}
+.colortext .anim-shape:nth-child(8) {
+    fill: #fff;
+}
+.colortext .anim-shape:nth-child(9) {
+    fill: #00FF00;
+}
+.colortext .anim-shape:nth-child(10) {
+    fill: #0000FF;
 }
 .shadow {
     -webkit-transform: translate(10px, 10px);
