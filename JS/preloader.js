@@ -1,1 +1,1 @@
-$("#preloader").delay(500).fadeOut(1000);
+$("#preloader").delay(1200).fadeOut(1000);
